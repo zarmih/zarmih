@@ -8,6 +8,8 @@ I build local-first agents, QA automation, and developer tools designed to stay 
 
 ## Selected work
 
+- **[Fokus](https://github.com/zarmih/fokus)** — a TypeScript PWA for short attention and memory training, installable and usable offline.
+- **[Market Radar RU](https://github.com/zarmih/market-radar-ru)** (private) — a Python service for continuous marketplace search and price monitoring across Wildberries, Yandex Market, and Ozon.
 - **[Agentic QA](https://github.com/zarmih/agentic-qa)** — a TypeScript CLI that explores web applications, proposes grounded QA plans, verifies failures, and generates reviewable Playwright regressions. LLMs plan; deterministic code executes.
 - **[RuDataAnalyst SQL](https://github.com/zarmih/RuDataAnalyst-SQL)** — a local Russian text-to-SQL system built with Qwen3, QLoRA, FastAPI, SQLite guardrails, and a blind benchmark on unseen schemas.
 - **[ByeByeDPI Linux](https://github.com/zarmih/ByeByeDPI-Linux)** — an unofficial PySide6 desktop client for local SOCKS5 workflows on Linux, with GNOME/KDE integration, automated tests, and release tooling.
